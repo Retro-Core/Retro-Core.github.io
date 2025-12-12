@@ -120,8 +120,8 @@ comments:
   giscus:
     repo: "Retro-Core/Retro-Core.github.io"
     repo_id: R_kgDOQnBDwg
-    category: General
-    category_id: DIC_kwDOQnBDws4Cztc6
+    category: "Komentarze"
+    category_id: DIC_kwDOQnBDws4CzthD
     mapping: "pathname"
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
