@@ -1,7 +1,7 @@
 ---
 title: "Dlaczego retro komputery i gry wciąż fascynują?"
 description: "Retro komputery i stare gry wracają do łask. Sprawdzamy, dlaczego technologia sprzed lat wciąż przyciąga fanów."
-date: 2025-12-14 12:00:00 +0100
+date: 2025-12-12 12:00:00 +0100
 categories: [retro]
 tags: [retro, komputery, gry, historia]
 image:
