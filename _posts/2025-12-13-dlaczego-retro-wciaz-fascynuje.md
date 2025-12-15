@@ -44,13 +44,4 @@ Powodów jest kilka:
 
 Retro oferuje coś innego: **grywalność ponad grafikę**.
 
-## Retro-Core – po co ten blog?
-
-Ten blog powstał, aby:
-- przypominać stare komputery i gry
-- tłumaczyć, jak działały
-- pokazywać, jak korzystać z nich dziś
-
-Jeśli interesuje Cię świat retro technologii — jesteś w dobrym miejscu.
-
 👉 W kolejnym wpisie przyjrzymy się bliżej **Atari 800XL**, jednemu z najważniejszych komputerów lat 80.
