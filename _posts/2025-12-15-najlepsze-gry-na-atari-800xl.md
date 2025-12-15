@@ -1,7 +1,7 @@
 ---
 title: "Najlepsze gry na Atari 800XL – klasyki, które się nie starzeją"
 description: "Najlepsze gry na Atari 800XL – kultowe tytuły, które do dziś zachwycają grywalnością, muzyką i pomysłowością."
-date: 2025-12-18 19:00:00 +0100
+date: 2025-12-15 20:00:00 +0100
 categories: [retro, gry]
 tags: [atari, 800xl, gry, retro, 8bit]
 image:
