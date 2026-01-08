@@ -23,6 +23,8 @@ tytułów, które do dziś są grywalne i warte poznania.
 
 ## River Raid (1982)
 
+![River Raid – screen z gry, https://www.igdb.com/games/river-raid](/assets/img/atari-800xl-games/sc6kiq.jpg)
+
 Jedna z najbardziej rozpoznawalnych gier w historii Atari.
 
 Sterujemy samolotem, lecąc wzdłuż rzeki, niszcząc wrogów
@@ -39,7 +41,7 @@ sprawiają, że **River Raid wciąga nawet dziś**.
 
 ## Montezuma’s Revenge (1983)
 
-![Montezuma’s Revenge – screen z gry na Atari 800XL, https://store.steampowered.com/app/1421120/Montezumas_Revenge/](/assets/img/atari-800xl-games/montezuma.png)
+![Montezuma’s Revenge – screen z gry, https://store.steampowered.com/app/1421120/Montezumas_Revenge/](/assets/img/atari-800xl-games/montezuma.png)
 
 Prawdziwa legenda platformówek.
 
@@ -56,6 +58,8 @@ Gra wymagała cierpliwości i planowania, co było rzadkością w tamtych czasac
 
 ## Boulder Dash (1984)
 
+![Boulder dash – screen z gry, https://boulder-dash.com/online-free-game/](/assets/img/atari-800xl-games/Boulder-Dash-original-Trailer.jpg)
+
 Połączenie zręcznościówki i gry logicznej.
 
 Gracz kopie tunele, zbiera diamenty i unika kamieni oraz potworów.
@@ -70,6 +74,8 @@ która wymaga refleksu i myślenia jednocześnie.
 ---
 
 ## International Karate (1985)
+
+![International Karate – screen z gry, https://80sheaven.com/international-karate-the-best-8-bit-fighting-game/](/assets/img/atari-800xl-games/International-Karate-C64-Mount-Fuji-1.jpg)
 
 Jedna z najpopularniejszych bijatyk 8-bitowych.
 
@@ -86,6 +92,8 @@ a płynne animacje i muzyka sprawiały,
 
 ## Bruce Lee (1984)
 
+![Bruce Lee – screen z gry, https://archive.org/details/Bruce_Lee_1984_US_Gold](/assets/img/atari-800xl-games/Bruce_Lee_1984_US_Gold_screenshot.png)
+
 Unikalne połączenie platformówki i gry akcji.
 
 Gra wyróżniała się atmosferą,
@@ -100,6 +108,8 @@ Kooperacja dwóch graczy była prawdziwą nowością.
 ---
 
 ## The Last Ninja (1987)
+
+![The Last Ninja – screen z gry, https://www.uvlist.net/game-36500-The+Last+Ninja](/assets/img/atari-800xl-games/2028.jpg)
 
 Jedna z najbardziej zaawansowanych gier na Atari 800XL.
 
@@ -116,6 +126,8 @@ i rozbudowana eksploracja sprawiały,
 
 ## Rescue on Fractalus! (1985)
 
+![Rescue on Fractalus! – screen z gry, https://www.reddit.com/r/retrogaming/comments/uobh5b/still_the_biggest_scare_a_game_ever_gave_me/](/assets/img/atari-800xl-games/0fmrj9o224z81.jpg)
+
 Gra, która zaskakiwała klimatem i pomysłem.
 
 Pilotujemy statek ratunkowy na obcej planecie,
@@ -130,6 +142,8 @@ Jednak nie wszyscy okazują się tym, kim są…
 ---
 
 ## Star Raiders (1979)
+
+![Star Raiders – screen z gry, https://www.youtube.com/watch?v=L8YdO6PYViw](/assets/img/atari-800xl-games/maxresdefault.jpg)
 
 Jedna z pierwszych kosmicznych gier akcji
 z prawdziwego zdarzenia.
@@ -147,6 +161,8 @@ Jak na swoje czasy była to gra niezwykle zaawansowana.
 
 ## Zybex (1988)
 
+![Zybex – screen z gry, https://www.uvlist.net/game-29408-Zybex](/assets/img/atari-800xl-games/2612.jpg)
+
 Dynamiczna strzelanka z doskonałą muzyką.
 
 Szybka akcja, mnóstwo wrogów
@@ -161,6 +177,8 @@ Tytuł dla graczy lubiących wyzwania.
 ---
 
 ## Fred (1987)
+
+![Fred – screen z gry, https://ataricrypt.blogspot.com/2018/04/fred.html](/assets/img/atari-800xl-games/Sir.jpg)
 
 Platformówka z elementami logicznymi.
 
